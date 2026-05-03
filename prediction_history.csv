@@ -1,0 +1,8 @@
+Date Time,Patient Name,Age,Gender,Symptoms,File Name,Prediction,Confidence
+2026-04-30 19:20:09,MANAV,25,Male,COUGH,person97_virus_180.jpeg,Pneumonia,99.58%
+2026-04-30 19:20:18,MANAV,25,Male,COUGH,person97_virus_180.jpeg,Pneumonia,99.58%
+2026-04-30 19:20:27,MANAV,25,Male,COUGH,person97_virus_180.jpeg,Pneumonia,99.58%
+2026-04-30 22:07:36,PRIYANSHU,25,Male,COUGH,person981_bacteria_2907.jpeg,Pneumonia,98.46%
+2026-04-30 22:07:56,PRIYANSHU,25,Male,COUGH,NORMAL2-IM-0348-0001.jpeg,Normal,91.55%
+2026-04-30 23:48:16,MN,25,Other,cough,Screenshot 2023-12-21 220948.png,Pneumonia,99.81%
+2026-05-01 00:03:23,MANAV,21,Male,COUGH,person1949_bacteria_4880.jpeg,Pneumonia,97.18%
