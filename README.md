@@ -81,27 +81,6 @@ This project demonstrates an end-to-end machine learning pipeline:
 > This model achieves \~96% recall on Pneumonia cases, reducing missed diagnoses.
 
 
-
-\---
-
-
-
-\## 🖥️ Demo
-
-
-
-!\[App Screenshot](./screenshot.png)
-
-<p align="center">
-
-&#x20; <img src="https://raw.githubusercontent.com/Abhhiiissshhek/pneumonia-detection/main/screenshot.png" width="800"/>
-
-</p>
-
-\---
-
-
-
 \## ⚙️ Installation
 
 
@@ -142,13 +121,8 @@ Chest X-ray dataset from Kaggle
 
 Model file (.pth) is not included due to size limits
 
-You can train the model using train.py
+can train the model using train.py
 
-🌐 Live Demo
-
-
-
-🚧 Coming soon (deployment in progress)
 
 
 
@@ -172,9 +146,5 @@ Understood importance of recall in medical AI
 
 Deployed model using Streamlit for real-time inference
 
-👨‍💻 Author
 
-
-
-Abhishek Prajapati (abhhiiissshhek\_ml)
 
